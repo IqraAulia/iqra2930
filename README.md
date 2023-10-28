@@ -18,4 +18,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https:
   <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqra2930&layout=compact)"/>
  
 </a>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqra2930&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
